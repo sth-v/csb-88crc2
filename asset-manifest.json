@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://sth-v.github.io/csb-88crc2/static/css/main.c76e84cc.css",
+    "main.js": "https://sth-v.github.io/csb-88crc2/static/js/main.ae317c68.js",
+    "index.html": "https://sth-v.github.io/csb-88crc2/index.html",
+    "main.c76e84cc.css.map": "https://sth-v.github.io/csb-88crc2/static/css/main.c76e84cc.css.map",
+    "main.ae317c68.js.map": "https://sth-v.github.io/csb-88crc2/static/js/main.ae317c68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c76e84cc.css",
+    "static/js/main.ae317c68.js"
+  ]
+}
